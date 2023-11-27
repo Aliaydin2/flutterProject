@@ -40,6 +40,7 @@ dependencies:
   flutter_bloc:
   bloc:
   meta:
+  google_sign_in: ^6.1.6
 
 dev_dependencies:
   flutter_test:
@@ -51,6 +52,7 @@ dev_dependencies:
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^2.0.0
+  
 
 
 # For information on the generic Dart part of this file, see the
