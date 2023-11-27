@@ -51,4 +51,4 @@ xcuserdata/
 *.xcworkspace/
 
 # Android
-google-services.json
+/android/app/google-services.json
